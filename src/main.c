@@ -61,7 +61,7 @@ int main(void) {
                         count, capacity);
                 fflush(file);
             } else {
-                printf("Room full! Entry denied.\n");
+                printf("WARNING: Room full! Entry denied.\n");
             }
         }
         else if (choice == 2) {
