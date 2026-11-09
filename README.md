@@ -6,7 +6,7 @@ CSE 1106 Final Project
 
 Team Members:
 - Aarav Raj Rana
-- [Teammate's Name]
+- Olumide Olaoye
 
 ## Description
 This project uses a Raspberry Pi 4 and a C program
